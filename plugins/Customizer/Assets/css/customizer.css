@@ -8,13 +8,13 @@
 }
 /* ===== FONT CUSTOMIZATION - UBUNTU ===== */
 /* ===== FONT CUSTOMIZATION - PT SERIF ===== */
-@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,400;8..144,600&display=swap');
 
 body, input, select, textarea, button {
-    font-family: 'PT Serif', serif !important;
-    font-size: 15px;
-    line-height: 1.7;
-    letter-spacing: 0.3px;
+    font-family: 'Roboto Flex', sans-serif !important;
+    font-size: 14.5px;
+    line-height: 1.6;
+    letter-spacing: 0.25px;
 }
 
 
