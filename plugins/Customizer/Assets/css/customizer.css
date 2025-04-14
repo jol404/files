@@ -7,14 +7,16 @@
     opacity:1.0;
 }
 /* ===== FONT CUSTOMIZATION - UBUNTU ===== */
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
+/* ===== FONT CUSTOMIZATION - PT SERIF ===== */
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
 
 body, input, select, textarea, button {
-    font-family: 'Ubuntu', sans-serif !important;
-    font-size: 14px;
-    line-height: 1.6;
-    letter-spacing: 0.25px;
+    font-family: 'PT Serif', serif !important;
+    font-size: 15px;
+    line-height: 1.7;
+    letter-spacing: 0.3px;
 }
+
 
 button, .button {
     background-color: #2196f3;
